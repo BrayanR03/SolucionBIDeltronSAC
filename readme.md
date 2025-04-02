@@ -1,11 +1,9 @@
-🚀 Data Engineering & Logistics for Technology Resources 
-   and Optimization Networks (DELTRON) S.A.C: 
-   BI Solution - Sales Datamart 📊
+# 🚀 Data Engineering & Logistics for Technology Resources and Optimization Networks S.A.C:  BI Solution - Datamart📊
 
-💡 Descripción
+## 💡 Descripción
 Solución de Business Intelligence (BI) usando la metodología Ralph Kimball, creando un Datamart de Ventas para transformar datos transaccionales en KPIs clave que ayuden en la toma de decisiones estratégicas.
 
-📚 Metodología
+## 📚 Metodología
 Recolección de Información: Definición de KPIs y análisis FODA.
 
 Diseño del Modelo: Creación de Datamart de Ventas con dimensiones y medidas.
@@ -19,19 +17,19 @@ Visualización: Creación de dashboards interactivos en Power BI para los KPIs.
 ![Modelo Dimensional - Datamart](ModeloDimensional.png)  
 ![Dashboard Preview](Reporte1.png)  
 
-🛠️ Tecnologías
+## 🛠️ Tecnologías
 SQL Server: Modelo dimensional y ETL.
 
 Power BI: Visualización de KPIs.
 
 SQL MERGE: Actualización de dimensiones.
 
-🚀 Ejecución
+## 🚀 Ejecución
 SQL Server: Cargar datos y ejecutar scripts ETL.
 
 Power BI: Conectar al modelo de datos y explorar el reporte SalesDashboard.pbix.
 
-📊 Resultados
+## 📊 Resultados
 Optimización de ventas y toma de decisiones.
 
 Visualización de KPIs y análisis de ventas en tiempo real.
